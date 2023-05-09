@@ -1,2 +1,2 @@
 # Predicting-Survival-Chances-in-the-Titanic-Disaster-
-Using recursive feature elimination and logistic regression, this project predicts survival chances in the Titanic disaster with 80% accuracy.
+This project utilized recursive feature elimination and logistic regression to predict the likelihood of survival in the Titanic disaster with an accuracy rate of 80%. By identifying the most impactful columns, the model was able to make accurate classifications and provide insight into the factors that contributed to survival during this historic event. These findings have important implications for understanding patterns of survival in disasters and informing disaster preparedness strategies.
